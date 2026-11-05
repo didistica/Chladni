@@ -14,8 +14,8 @@ Este projeto simula esse fenómeno. Cada padrão é determinado por dois número
 Input + Expressão = Artefacto
 
 **Input** - random() (sorteio de m e n) e clique do rato
-**Referência / Expressão** - Fórmula física das placas de Chladni, representada por um sistema de partículas
-**Output** - Visualização interativa em que as partículas se reorganizam em cada novo padrão, com os valores de m e n visíveis
+    **Referência / Expressão** - Fórmula física das placas de Chladni, representada por um sistema de partículas
+    **Output** - Visualização interativa em que as partículas se reorganizam em cada novo padrão, com os valores de m e n visíveis
 
 ## Como funciona
  A função que descreve a vibração de uma placa quadrada é:
