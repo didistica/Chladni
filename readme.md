@@ -8,6 +8,7 @@ Em 1787, Ernst Chladni espalhou areia sobre uma placa metálica e fê-la vibrar 
 Este projeto simula esse fenómeno. Cada padrão é determinado por dois números, m e n, e o utilizador pode ver os valores que deram origem à figura que está no ecrã.
 
 **MoodBoard**
+
 ![alt text](image-2.png)
 
 Input + Expressão = Artefacto
