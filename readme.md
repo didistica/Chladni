@@ -19,6 +19,7 @@ Input + Expressão = Artefacto
 ## Como funciona
  A função que descreve a vibração de uma placa quadrada é:
  ![alt text](image-4.png)
+ ![alt text](image-5.png)
 
  - Onde **f(x, y)** é próximo de 0, a placa não vibra: são as linhas nodais, onde as partículas se acumulam.
  - Onde **|f(x, y)|** é grande, a placa vibra muito e as partículas são empurradas para fora.
