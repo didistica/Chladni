@@ -1,3 +1,6 @@
-# Título
+# Padrões de Chladni
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut euismod convallis magna ut pulvinar. Nulla iaculis, metus in semper vestibulum, lorem quam fringilla tellus, eu varius leo dui ac neque. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed faucibus ultrices ante, ut suscipit est euismod ut. Duis sit amet dictum turpis. Fusce non turpis porta nisi iaculis eleifend. Donec eget lobortis risus. Proin molestie tincidunt elit. Donec a enim ac neque tristique molestie. Sed nibh massa, dignissim at ipsum non, volutpat aliquam erat. Sed tincidunt quis urna a semper. Phasellus leo orci, imperdiet et ullamcorper non, finibus eu nunc. Duis vel ligula ac orci tincidunt aliquam. Suspendisse potenti. Sed congue lectus at aliquet cursus. 
+**Conceito**
+Em 1787, Ernst Chladni espalhou areia sobre uma placa metálica e fê-la vibrar com um arco de violino. A areia fugiu das zonas que vibram e acumulou-se nas linhas nodais, as zonas onde a placa quase não se mexe, formando figuras geométricas simétricas.
+![alt text](image.png)   ![alt text](image-1.png)
+Este projeto simula esse fenómeno. Cada padrão é determinado por dois números, m e n, e o utilizador pode ver os valores que deram origem à figura que está no ecrã.
