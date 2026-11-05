@@ -40,3 +40,11 @@ Explicação do código: o Claude descreveu como funciona a fórmula e a estrutu
 - uso de maxMN + 1, para que o valor máximo (6) também possa ser sorteado, já que floor(random(1, 6)) só dava 1 a 5.
 - ciclo do...while, para garantir que m e n nunca saem iguais.
 - troca para ficar sempre m > n, como na tabela de referência.
+
+**Assistido por AI:**
+- **Explicação do código:** o Claude descreveu como funciona a fórmula e a estrutura do sketch, o que me ajudou a compreendê-lo.
+- **Correções em randomPatterns():**
+uso de maxMN + 1, para que o valor máximo (6) também possa ser sorteado, já que floor(random(1, 6)) só dava 1 a 5;
+- ciclo do...while, para garantir que m e n nunca saem iguais;
+- troca para ficar sempre m > n, como na tabela de referência.
+Apresentação dos valores no ecrã: código para mostrar m e n, e o posicionamento centrado em baixo com textAlign().
